@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC333: Campaigns and Elections"
+course_description: "A detailed study of the purpose and significance of campaigns and elections, especially their impact on the American political system. Explores the history and evolution of elections and voting laws in the United States, types of elections, campaign organization and strategy, the role of political parties, and voter decision-making."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Electoral Reform** <span id="7"></span> 
 *No electoral system is without flaws; the United States has seen (and
 will continue to see) a number of electoral reforms designed to rectify

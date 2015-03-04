@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC333: Campaigns and Elections"
+course_description: "A detailed study of the purpose and significance of campaigns and elections, especially their impact on the American political system. Explores the history and evolution of elections and voting laws in the United States, types of elections, campaign organization and strategy, the role of political parties, and voter decision-making."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "POLSC333: Campaigns and Elections"
 -------------------------------------------------------
 
