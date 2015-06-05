@@ -131,3 +131,14 @@ and 1.1.2 (a total of 3 hours) on Monday night.
  **Tips/Suggestions:** Take notes on each resource in this course.  Your
 notes will serve as a useful study guide as you prepare for your Final
 Exam.
+
+**Table of Contents:** You can find the course's units at the links below.
+
+- [Unit 1](https://legacy.saylor.org/polsc333/Unit01/)
+- [Unit 2](https://legacy.saylor.org/polsc333/Unit02/)
+- [Unit 3](https://legacy.saylor.org/polsc333/Unit03/)
+- [Unit 4](https://legacy.saylor.org/polsc333/Unit04/)
+- [Unit 5](https://legacy.saylor.org/polsc333/Unit05/)
+- [Unit 6](https://legacy.saylor.org/polsc333/Unit06/)
+- [Unit 7](https://legacy.saylor.org/polsc333/Unit07/)
+- [Unit 8](https://legacy.saylor.org/polsc333/Unit08/)
