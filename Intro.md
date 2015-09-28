@@ -152,3 +152,4 @@ Exam.
 - [Unit 6](https://legacy.saylor.org/polsc333/Unit06/)
 - [Unit 7](https://legacy.saylor.org/polsc333/Unit07/)
 - [Unit 8](https://legacy.saylor.org/polsc333/Unit08/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/POLSC/POLSC33/POLSC333-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/POLSC/POLSC333/POLSC333-FinalExam-Answers.html)
