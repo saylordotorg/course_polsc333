@@ -311,7 +311,7 @@ id="1.2.1"></span> 
 -   **Assessment: The Saylor Foundation's "The Presidential Nominating
     System"**
     Link: The Saylor Foundation's "[The Presidential Nominating
-    System](http://www.saylor.org/site/wp-content/uploads/2012/08/POLSC333-OC-1.3.1-FINAL-Assessment.pdf)"
+    System](https://resources.saylor.org/archived/wp-content/uploads/2012/08/POLSC333-OC-1.3.1-FINAL-Assessment.pdf)"
     (PDF)  
          
      Instructions: Please complete the linked assessment to help in your
@@ -323,7 +323,7 @@ id="1.2.1"></span> 
      When you are done, please check your work against The Saylor
     Foundation's “[Guide to Responding: The Presidential Nominating
     System
-    Assessment](http://www.saylor.org/site/wp-content/uploads/2011/11/POLSC333-Assessment-1-GTR-FINAL.pdf)."
+    Assessment](https://resources.saylor.org/archived/wp-content/uploads/2011/11/POLSC333-Assessment-1-GTR-FINAL.pdf)."
     (PDF)
 
 **1.3.2 Congressional, State, and Local Elections** <span
