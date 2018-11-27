@@ -255,7 +255,7 @@ id="7.3.3"></span> 
     “Corporate Campaign Spending: They Get What They Pay for”**
     Link: Institute for Policy Studies: Salvatore Babones’s [“Corporate
     Campaign Spending: They Get What They Pay
-    for”](http://www.saylor.org/site/wp-content/uploads/2013/04/POLSC333-7.3.4-CorporateCampaignSpending.pdf) (PDF)  
+    for”](https://resources.saylor.org/archived/wp-content/uploads/2013/04/POLSC333-7.3.4-CorporateCampaignSpending.pdf) (PDF)  
         
      Instructions: Read this article.   
         
