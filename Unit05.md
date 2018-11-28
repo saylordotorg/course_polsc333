@@ -213,7 +213,7 @@ id="5.2.2"></span> 
 
 -   **Assessment: The Saylor Foundation's “Fact Checking Campaign Ads”**
     Link: The Saylor Foundation's “[Fact Checking Campaign
-    Ads](https://resources.saylor.org/archived/wp-content/uploads/2012/08/POLSC333-OC-5.2.2-FINAL-Assessment.pdf)”
+    Ads](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/POLSC333-OC-5.2.2-FINAL-Assessment.pdf)”
     (PDF)  
       
      Instructions: Please complete the linked assessment for the
@@ -225,7 +225,7 @@ id="5.2.2"></span> 
       
      When you are done, please check your work against The Saylor
     Foundation's “[Guide to Responding: Fact Checking Campaign Ads
-    Assessment](https://resources.saylor.org/archived/wp-content/uploads/2011/11/POLSC333-Assessment-4-GTR-FINAL.pdf)."
+    Assessment](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/POLSC333-Assessment-4-GTR-FINAL.pdf)."
     (PDF)
 
 **5.3 News Coverage of Campaigns and Candidates** <span
