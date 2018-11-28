@@ -170,7 +170,7 @@ Candidate** <span id="4.1.3"></span> 
 -   **Assessment: The Saylor Foundation's "Comparing Political
     Parties"**
     Link: The Saylor Foundation's "[Comparing Political
-    Parties](https://resources.saylor.org/archived/wp-content/uploads/2012/08/POLSC333-OC-4.1.3-FINAL-Assessment.pdf)"
+    Parties](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/POLSC333-OC-4.1.3-FINAL-Assessment.pdf)"
     (PDF)  
       
      Instructions: Please complete the linked assessment to help in your
@@ -182,7 +182,7 @@ Candidate** <span id="4.1.3"></span> 
       
      When you are done, please check your work against The Saylor
     Foundation's “[Guide to Responding: Comparing Political Parties
-    Assessment](https://resources.saylor.org/archived/wp-content/uploads/2011/11/POLSC333-Assessment-2-GTR-FINAL.pdf)."
+    Assessment](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/POLSC333-Assessment-2-GTR-FINAL.pdf)."
     (PDF)
 
 **4.2 The Role of Interest Groups** <span id="4.2"></span> 
@@ -295,7 +295,7 @@ Electoral Process** <span id="4.2.3"></span> 
 
 -   **Assessment: The Saylor Foundation's "Interest Groups"**
     Link: The Saylor Foundation's "[Interest
-    Groups](https://resources.saylor.org/archived/wp-content/uploads/2012/08/POLSC333-OC-4.2.3-FINAL-Assessment.pdf)"
+    Groups](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/POLSC333-OC-4.2.3-FINAL-Assessment.pdf)"
     (PDF)  
       
      Instructions: Please complete the linked assessment in order to
@@ -308,7 +308,7 @@ Electoral Process** <span id="4.2.3"></span> 
       
      When you are done, please check your work against The Saylor
     Foundation's “[Guide to Responding: Interest Group
-    Assessment](https://resources.saylor.org/archived/wp-content/uploads/2011/11/POLSC333-Assessment-3-GTR-FINAL.pdf)."
+    Assessment](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/POLSC333-Assessment-3-GTR-FINAL.pdf)."
     (PDF)
 
 
